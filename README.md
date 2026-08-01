@@ -1,9 +1,12 @@
 # Transport_Dashboard
 Transport _Dashboard
 🚘 ASH Limo Dashboard
+
+![Dashboard](p1.JPG)
 📌 Project Overview
 
 The ASH Limo Dashboard is an interactive Power BI solution designed to analyze the operational and financial performance of a limousine transportation company. The dashboard provides real-time insights into bookings, revenue, trip performance, driver efficiency, and customer activity to support data-driven decision-making.
+![Dashboard](p2.JPG)
 
 🎯 Business Objectives
 Monitor daily and monthly bookings.
@@ -55,22 +58,17 @@ Trip Status
 Payment Method
 📷 Dashboard Preview
 Executive Dashboard
-
+![Dashboard](p5.JPG)
 
 
 
 Revenue Analysis
-
-
-
-
-Driver Performance
-
+![Dashboard](p3.JPG)
 
 
 
 Customer Analysis
-
+![Dashboard](p4.JPG)
 
 
 
